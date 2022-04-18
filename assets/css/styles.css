@@ -406,17 +406,12 @@ img {
 }
 
 /*==================== ABOUT ====================*/
-.about {
-  margin-left: var(--mb-1-5);
-  margin-right: var(--mb-1-5);
-}
-
 .about__img {
   width: 200px;
   border-radius: 0.5rem;
   justify-self: center;
   align-self: center;
-  margin-bottom: var(--mb-2-5);
+  /* margin-bottom: var(--mb-2-5); */
 }
 
 .about__description {
