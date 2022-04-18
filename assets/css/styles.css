@@ -274,15 +274,8 @@ img {
 }
 
 /*==================== HOME ====================*/
-.home {
-  /* margin-left: var(--mb-1);
-  margin-right: var(--mb-1); */
-}
-
 .home__container {
   gap: 1rem;
-  margin-left: var(--mb-1-5);
-  margin-right: var(--mb-1-5);
 }
 
 .home__content {
@@ -1294,7 +1287,7 @@ img {
   }
 
   .home__social {
-    /* transform: translateX(-6rem); */
+    transform: translateX(-6rem);
   }
 
   .services__container {
