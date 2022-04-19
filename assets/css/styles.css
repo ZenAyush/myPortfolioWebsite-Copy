@@ -301,7 +301,7 @@ img {
 
 .home__blob {
   width: 200px;
-  fill: #6ee9ff;
+  fill: #40baeb;
 }
 
 .home__blob-img {
@@ -803,7 +803,7 @@ img {
 }
 
 .project__bg {
-  background-color: var(--first-color-second);
+  background-color: #40baeb;
   padding-top: 3rem;
 }
 
