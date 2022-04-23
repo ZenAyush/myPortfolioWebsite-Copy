@@ -300,13 +300,11 @@ img {
 }
 
 .home__blob {
-  stroke: black;
   width: 200px;
   fill: var(--first-color);
 }
 
 .home__blob-img {
-  stroke: black;
   width: 200px;
 }
 
