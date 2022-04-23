@@ -803,7 +803,7 @@ img {
 }
 
 .project__bg {
-  background-color: #40baeb;
+  background-color: var(--first-color);
   padding-top: 3rem;
 }
 
