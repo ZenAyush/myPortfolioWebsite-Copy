@@ -300,12 +300,14 @@ img {
 }
 
 .home__blob {
+  stroke: black;
   width: 200px;
-  fill: #40baeb;
+  fill: var(--first-color);
 }
 
 .home__blob-img {
-  width: 170px;
+  stroke: black;
+  width: 200px;
 }
 
 .home__data {
